@@ -1,0 +1,28 @@
+{
+  "name": "Your Name",
+  "email": "you@example.com",
+  "target_roles": [
+    "machine learning engineer",
+    "data scientist",
+    "ai engineer"
+  ],
+  "must_have_keywords": [
+    "python",
+    "machine learning"
+  ],
+  "nice_to_have_keywords": [
+    "llm",
+    "nlp",
+    "pytorch",
+    "aws"
+  ],
+  "blocked_keywords": [
+    "senior director",
+    "unpaid"
+  ],
+  "locations": [
+    "united states",
+    "remote"
+  ],
+  "resume_summary": "I am an AI/ML engineer with hands-on experience building production-ready data and model pipelines, LLM-based assistants, and backend APIs. I focus on measurable business impact, reliability, and fast iteration."
+}

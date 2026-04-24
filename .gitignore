@@ -1,0 +1,7 @@
+# local runtime files
+data/
+output/
+logs/
+profile.json
+.venv/
+__pycache__/

@@ -1,0 +1,37 @@
+{
+  "jobs": [
+    {
+      "id": 1001,
+      "publication_date": "2026-04-20T12:00:00",
+      "company_name": "Acme AI",
+      "title": "Machine Learning Engineer",
+      "candidate_required_location": "United States",
+      "salary": "$120k-$150k",
+      "url": "https://example.com/jobs/1001",
+      "category": "Software Development",
+      "description": "Build ML services with Python, PyTorch, and AWS. Work with LLM systems."
+    },
+    {
+      "id": 1002,
+      "publication_date": "2026-04-21T10:00:00",
+      "company_name": "DataNova",
+      "title": "Data Scientist",
+      "candidate_required_location": "Remote",
+      "salary": "$110k-$140k",
+      "url": "https://example.com/jobs/1002",
+      "category": "Data",
+      "description": "Looking for Python and machine learning experience, NLP is a plus."
+    },
+    {
+      "id": 1003,
+      "publication_date": "2026-04-22T09:00:00",
+      "company_name": "Legacy Corp",
+      "title": "Senior Director of Operations",
+      "candidate_required_location": "United States",
+      "salary": "$180k-$220k",
+      "url": "https://example.com/jobs/1003",
+      "category": "Operations",
+      "description": "Executive leadership role."
+    }
+  ]
+}
